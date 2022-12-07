@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 07, 2022 at 06:14 PM
+-- Generation Time: Dec 07, 2022 at 06:40 PM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 8.0.12
 
@@ -47,7 +47,8 @@ INSERT INTO `post` (`id`, `title`, `content`) VALUES
 (7, 'Drone hingga Live Streaming Akan Pelototi Tukang Nyampah di DKI', 'Untuk mengoperasikan drone, kamera serta live streaming YouTube ini, DLH DKI Jakarta bekerja sama dengan Dinas Komunikasi Informatika dan Statistik (Kominfotik). Pengawasan pengelolaan sampah juga didukung oleh Satpol PP DKI Jakarta.\n\n\"Dinas Lingkungan Hidup, Satpol PP, dan Dinas Kominfotik sepakat untuk melakukan kegiatan bersama Penegakan Perda Nomor 3 Tahun 2013 tentang Pengelolaan Sampah sesuai arahan Pj Gubernur dengan menggelar operasi tangkap tangkap (OTT) secara konvensional yang (secara rutin sudah dilakukan),\" ungkap Kepala Dinas Lingkungan Hidup (LH) DKI Jakarta Asep Kuswanto dalam keterangan, Kamis (3/11/2022).\n\nPemantauan terhadap pelanggar akan menggunakan drone yang akan dilaksanakan mulai Minggu, 6 November 2022. Nantinya, warga yang membuang sampah sembarangan akan dijatuhi sanksi.\n\nSanksinya sesuai dengan Pasal 130 ayat (1) b Peraturan Daerah 3/2013 tentang Pengelolaan Sampah. Dalam perda tersebut, diatur kewenangan Gubernur DKI memberikan sanksi administratif berupa uang paksa. https://news.detik.com/berita/d-6388604/drone-hingga-live-streaming-akan-pelototi-tukang-nyampah-di-dki'),
 (10, 'DLH DKI Akan Pantau Pembuang Sampah Sembarangan Pakai Drone, Ini Lokasinya', 'Dinas Kominfotik mendukung kegiatan pengawasan dan penindakan terhadap pelanggaran dengan menyediakan drone, kamera, dan live streaming YouTube untuk mendukung penindakan ini. Pemantauan terhadap pelanggar akan menggunakan drone yang akan dilaksanakan mulai Minggu, 6 November 2022.\nBagi para pelanggar akan dikenai Pasal 130 ayat (1) b Perda 3/2013 tentang Pengelolaan Sampah.\n\nGubernur dapat memberikan sanksi administratif berupa uang paksa kepada: setiap orang dengan sengaja atau terbukti membuang, menumpuk sampah dan/atau bangkai binatang ke sungai/kali/kanal, waduk, situ, saluran air limbah, di jalan, taman, atau tempat umum, dikenakan uang paksa paling banyak Rp. 500.000,00 (lima ratus ribu rupiah). https://news.detik.com/berita/d-6386553/dlh-dki-akan-pantau-pembuang-sampah-sembarangan-pakai-drone-ini-lokasinya'),
 (11, 'Tampung Sampah Jakarta, Tempat Pengolahan Limbah B3 Akan Dibangun di Lebak', 'Tempat pengolahan sampah dan limbah B3 akan dibangun di Gunung Anten, Cimarga, Lebak, Banten. Luas tempatnya diperkirakan mencapai 150 hektar.\n\nKepala Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu (DPMPTSP) Lebak, Yosep Mohamad Holis mengatakan, tempat pengolahan ini akan menampung sampah dan limbah B3 dari Banten dan Jakarta. Disebut, 2.300 hektar di Kecamatan Cikulur dan Cimarga akan menjadi kawasan industri, salah satunya industri pengolahan sampah dan limbah B3.\n\n\"Untuk limbah dan sebagainya karena kita memanfaatkan konstalase regional. Banten sudah kebingungan mencari TPST regional, Jakarta sudah kebingungan karena Bantar Gebang sudah habis. Nah di Margatirta lah salah satunya. Bahkan untuk limbah B3 adanya hanya di Cileungsi, limbah B3 nasional itu pasti akan berbagi di kita,\" kata Yosep ditemui beberapa waktu lalu, Senin (5/11/2022). https://news.detik.com/berita/d-6444754/tampung-sampah-jakarta-tempat-pengolahan-limbah-b3-akan-dibangun-di-lebak'),
-(12, 'Ratusan Ton Sampah Diangkut dari Pintu Air Manggarai', 'Petugas UPK Badan Air membersihkan sampah yang menumpuk di pintu air Manggarai, Jakarta. Sekitar 170,5 ton sampah berhasil diangkut dari pintu air tersebut.\n\nPetugas mengerahkan alat berat untuk membersihkan sampah di pintu air Manggarai, Jakarta, Senin (10/10/2022). https://news.detik.com/foto-news/d-6339579/ratusan-ton-sampah-diangkut-dari-pintu-air-manggarai');
+(12, 'Ratusan Ton Sampah Diangkut dari Pintu Air Manggarai', 'Petugas UPK Badan Air membersihkan sampah yang menumpuk di pintu air Manggarai, Jakarta. Sekitar 170,5 ton sampah berhasil diangkut dari pintu air tersebut.\n\nPetugas mengerahkan alat berat untuk membersihkan sampah di pintu air Manggarai, Jakarta, Senin (10/10/2022). https://news.detik.com/foto-news/d-6339579/ratusan-ton-sampah-diangkut-dari-pintu-air-manggarai'),
+(13, 'Petugas Kemananan Cerita Sampah di GBK Berserakan Usai Acara Nusantara Bersatu', 'Sebuah foto yang memperlihatkan sampah berserakan di kawasan Gelora Bung Karno, Jakarta Pusat, viral di media sosial. Dinarasikan sampah tersebut imbas relawan Presiden Joko Widodo (Jokowi) yang hadir dalam acara pertemuan di GBK hari ini.\nDalam foto yang beredar, terlihat sampah kertas hingga sampah plastik berserakan di sekitar GBK, di antaranya di pintu masuk GBK hingga di sekitar MRT Istora Mandiri.\n\nPantauan detikcom di lokasi, pukul 19.05 WIB, Sabtu (26/11/2022), sudah tidak terlihat sampah di sana. Sampah yang mulanya berserakan sudah dibereskan. https://news.detik.com/berita/d-6428465/petugas-kemananan-cerita-sampah-di-gbk-berserakan-usai-acara-nusantara-bersatu');
 
 --
 -- Indexes for dumped tables
@@ -67,7 +68,7 @@ ALTER TABLE `post`
 -- AUTO_INCREMENT for table `post`
 --
 ALTER TABLE `post`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
