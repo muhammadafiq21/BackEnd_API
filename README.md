@@ -10,5 +10,5 @@ npm install
 npm run dev
 ```
 
-## Link API
-https://news-api-v1-2022.herokuapp.com/api/v1/post
+## Deploy with Heroku
+Link API: "https://news-api-v1-2022.herokuapp.com/api/v1/post"
