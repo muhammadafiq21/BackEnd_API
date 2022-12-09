@@ -7,7 +7,7 @@ npm install
 ## run
 
 ```bash
-npm run dev
+npm run start
 ```
 
 ## Deploy with Heroku
