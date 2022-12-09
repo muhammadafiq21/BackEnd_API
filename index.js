@@ -1,17 +1,24 @@
-const express = require("express")
-const app = express()
+const express = require('express');
+const app = express();
+const cors = require('cors');
 
-require('dotenv').config()
+app.use(
+  cors({
+    origin: '*',
+  })
+);
 
-const postRouter = require('./routes/post.router')
+require('dotenv').config();
 
-app.use(express.urlencoded({ extended: false }))
-app.use(express.json())
+const postRouter = require('./routes/post.router');
 
-app.use("/api/v1/post", postRouter)
+app.use(express.urlencoded({ extended: false }));
+app.use(express.json());
 
-const PORT = process.env.PORT || 3000
+app.use('/api/v1/post', postRouter);
+
+const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
-    console.log("Server running....")
-})
+  console.log('Server running....');
+});
